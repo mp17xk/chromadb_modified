@@ -4,7 +4,7 @@ setup(
     name="chromadb",
     version="0.1",
     packages=find_packages(),
-    install_requires=install_requires = [
+    install_requires = [
     "bcrypt>=4.0.1",
     "chroma-hnswlib==0.7.6",
     "fastapi>=0.95.2",
